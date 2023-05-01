@@ -1,0 +1,11 @@
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'my-regular';
+
+font-family: 'my-bold';
+
+font-family: '-my-light';
+
+font-family: 'my-semibold';
+
+font-family: 'Oswald', sans-serif;
